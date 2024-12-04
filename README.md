@@ -219,3 +219,7 @@ services:
 * Dockerfile,
 * docker-compose.yml,
 * README.md со скриншотом ответа приложения.
+
+# Решение
+![272192749-25d3bb7f-a654-4247-b7ad-f67d2ac8ebf9](https://github.com/user-attachments/assets/5f22286a-58c9-4b97-a594-a8976ab1df3e)
+
