@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «3.1. Docker»
+## Домашнее задание к занятию «3.1. Docker»
 
 **Важно**: прежде чем приступать, обязательно прочитайте [руководство по установке Docker](./installation.md).
 
@@ -221,5 +221,6 @@ services:
 * README.md со скриншотом ответа приложения.
 
 # Решение
-![272192749-25d3bb7f-a654-4247-b7ad-f67d2ac8ebf9](https://github.com/user-attachments/assets/5f22286a-58c9-4b97-a594-a8976ab1df3e)
+![272192749-25d3bb7f-a654-4247-b7ad-f67d2ac8ebf9(1)(1)](https://github.com/user-attachments/assets/528af175-d98e-433e-8c39-c360f16b78a4)
+
 
