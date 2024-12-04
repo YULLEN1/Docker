@@ -35,19 +35,22 @@
 
 Найдите в поиске раздел Plugins:
 
-![](pic/plugins.png)
+<img width="1013" alt="plugins" src="https://github.com/user-attachments/assets/db505928-d667-4de1-98bb-e7b5d108e371">
+
 
 Нажмите на кнопку `Install`, после установки перезапустите IDEA.
 
 Теперь при открытии файлов `Dockerfile`, `docker-compose.yml` IDEA будет предлагать автодополнение и возможность запуска прямо из окна редактора:
 
-![](pic/editor.png)
+<img width="348" alt="editor" src="https://github.com/user-attachments/assets/3f2c6edf-80dd-46ac-9d82-0004145aa89e">
 
-![](pic/run.png)
+<img width="583" alt="run" src="https://github.com/user-attachments/assets/7da43e53-176b-409e-be99-67bedc2f8654">
+
 
 После запуска откроется окно `Services`, где вы можете посмотреть образы, контейнеры и запущенные с помощью Docker compose сервисы:
 
-![](pic/services.png)
+<img width="1199" alt="services" src="https://github.com/user-attachments/assets/5ff330f0-e577-46d4-acc3-9df07819bff7">
+
 
 ## Задача №1: PostgreSQL
 
@@ -131,7 +134,8 @@
 
 Идём на Docker Hub и ищем Node.js:
 
-![](pic/node.png)
+<img width="498" alt="node" src="https://github.com/user-attachments/assets/a419c8e1-30d9-4484-bc35-a83fc689c911">
+
 
 Начинаем писать наш `Dockerfile`:
 ```
